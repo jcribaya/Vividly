@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|Vividly.csproj|c:\\users\\jayca\\documents\\c# web application\\vividly\\webapplication1\\views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|Vividly.csproj|solutionrelative:views\\movies\\random.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|Vividly.csproj|c:\\users\\jayca\\documents\\c# web application\\vividly\\webapplication1\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|Vividly.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Vividly||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|WebApplication1.csproj|c:\\users\\jayca\\documents\\c# web application\\vividly\\webapplication1\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|WebApplication1.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE80CC1-3091-4BB2-BC0E-96D0D0576C47}|Vividly.csproj|c:\\users\\jayca\\documents\\c# web application\\vividly\\webapplication1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Random.cshtml",
+              "DocumentMoniker": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Views\\Movies\\Random.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Random.cshtml",
+              "ToolTip": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Views\\Movies\\Random.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Random.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T20:49:50.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vividly",
+              "DocumentMoniker": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Vividly.csproj",
+              "RelativeDocumentMoniker": "Vividly.csproj",
+              "ToolTip": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Vividly.csproj",
+              "RelativeToolTip": "Vividly.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-22T20:46:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:46:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\jayca\\Documents\\C# Web Application\\Vividly\\WebApplication1\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T20:42:13.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
